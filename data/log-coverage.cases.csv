@@ -1,0 +1,154 @@
+family,reviewer,case_id,repository,pr_number,pr_url,status,expected_issues,caught,seconds,review_url
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,97.959,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,1,80.109,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,2,80.461,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,31.814,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,1,88.49,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,2,102.648,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,3,73.852,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,2,135.116,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,3,91.595,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,74.621,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,81.371,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,112.718,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,28.384,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,1,184.766,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,164.118,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,3,84.165,
+log-coverage,IonWarp Log & Errors · Gemini 3.8 Flash,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,1,104.775,
+log-coverage,Qodo v2,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,222,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR8087__20260227/pull/1
+log-coverage,Qodo v2,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,2,384,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR10967__20260227/pull/1
+log-coverage,Qodo v2,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,4,321,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR11059__20260227/pull/1
+log-coverage,Qodo v2,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,352,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR22345__20260227/pull/1
+log-coverage,Qodo v2,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,1,321,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR22532__20260227/pull/1
+log-coverage,Qodo v2,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,3,462,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR4__20260227/pull/1
+log-coverage,Qodo v2,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,2,449,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR10__20260227/pull/1
+log-coverage,Qodo v2,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,2,379,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR76186__20260227/pull/1
+log-coverage,Qodo v2,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,2,406,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR90045__20260227/pull/1
+log-coverage,Qodo v2,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,301,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR97529__20260227/pull/1
+log-coverage,Qodo v2,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,349,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR33832__20260227/pull/1
+log-coverage,Qodo v2,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,406,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR67876__20260227/pull/1
+log-coverage,Qodo v2,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,218,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR80528__20260227/pull/1
+log-coverage,Qodo v2,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,1,337,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR93824__20260227/pull/1
+log-coverage,Qodo v2,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,377,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR95633__20260227/pull/1
+log-coverage,Qodo v2,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,2,267,https://github.com/code-review-benchmark/sentry__sentry-greptile__qodo-v2__PR1__20260227/pull/1
+log-coverage,Qodo v2,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,2,358,https://github.com/code-review-benchmark/sentry__sentry-greptile__qodo-v2__PR2__20260227/pull/1
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,210.253,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,1,126.839,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,2,168.148,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,229.393,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,1,247.352,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,1,159.312,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,2,247.974,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,576.724,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,3,155.984,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,541.881,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,408.591,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,293.405,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,32.515,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,1,263.141,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,415.49,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,2,249.113,
+log-coverage,IonWarp Log & Errors · DeepSeek V4.1 Flash,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,2,477.819,
+log-coverage,Greptile v4.1,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,312,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR8087__20260406/pull/1
+log-coverage,Greptile v4.1,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,1,214,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR10967__20260406/pull/1
+log-coverage,Greptile v4.1,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,4,409,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR11059__20260406/pull/1
+log-coverage,Greptile v4.1,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,402,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR22345__20260406/pull/1
+log-coverage,Greptile v4.1,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,1,302,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR22532__20260406/pull/1
+log-coverage,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,2,254,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR4__20260405/pull/1
+log-coverage,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,1,344,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR10__20260405/pull/1
+log-coverage,Greptile v4.1,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,176,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR76186__20260405/pull/1
+log-coverage,Greptile v4.1,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,3,223,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR90045__20260405/pull/1
+log-coverage,Greptile v4.1,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,345,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR97529__20260405/pull/1
+log-coverage,Greptile v4.1,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,244,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR33832__20260406/pull/1
+log-coverage,Greptile v4.1,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,294,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR67876__20260406/pull/1
+log-coverage,Greptile v4.1,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,180,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR80528__20260406/pull/1
+log-coverage,Greptile v4.1,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,0,176,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR93824__20260406/pull/1
+log-coverage,Greptile v4.1,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,309,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR95633__20260406/pull/1
+log-coverage,Greptile v4.1,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,3,429,https://github.com/code-review-benchmark/sentry__sentry-greptile__greptile-v4-1__PR1__20260406/pull/1
+log-coverage,Greptile v4.1,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,1,317,https://github.com/code-review-benchmark/sentry__sentry-greptile__greptile-v4-1__PR2__20260406/pull/1
+log-coverage,Cursor Bugbot,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,431,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR8087__20260122/pull/1
+log-coverage,Cursor Bugbot,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,1,444,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR10967__20260122/pull/1
+log-coverage,Cursor Bugbot,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,4,528,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR11059__20260122/pull/1
+log-coverage,Cursor Bugbot,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,757,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR22345__20260122/pull/1
+log-coverage,Cursor Bugbot,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,0,,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR22532__20260122/pull/1
+log-coverage,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,2,310,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR4__20260122/pull/1
+log-coverage,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,3,314,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR10__20260122/pull/1
+log-coverage,Cursor Bugbot,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,464,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR76186__20260122/pull/1
+log-coverage,Cursor Bugbot,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,3,329,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR90045__20260122/pull/1
+log-coverage,Cursor Bugbot,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,594,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR97529__20260122/pull/1
+log-coverage,Cursor Bugbot,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,349,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR33832__20260122/pull/1
+log-coverage,Cursor Bugbot,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,397,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR67876__20260122/pull/1
+log-coverage,Cursor Bugbot,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,326,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR80528__20260122/pull/1
+log-coverage,Cursor Bugbot,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,0,604,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR93824__20260122/pull/1
+log-coverage,Cursor Bugbot,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,729,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR95633__20260122/pull/1
+log-coverage,Cursor Bugbot,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,3,562,https://github.com/code-review-benchmark/sentry__sentry-greptile__bugbot__PR1__20260122/pull/1
+log-coverage,Cursor Bugbot,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,2,579,https://github.com/code-review-benchmark/sentry__sentry-greptile__bugbot__PR2__20260122/pull/1
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,55.688,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,1,62.427,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,2,67.063,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,34.449,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,0,39.775,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,1,66.134,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,0,55.59,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,45.365,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,3,107.842,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,34.213,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,59.136,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,45.211,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,26.976,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,1,46.415,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,65.572,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,1,50.921,
+log-coverage,IonWarp Log & Errors · Muse Spark 1.3,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,0,97.119,
+log-coverage,CodeRabbit,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,513,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR8087__20260122/pull/1
+log-coverage,CodeRabbit,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,2,680,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR10967__20260122/pull/1
+log-coverage,CodeRabbit,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,4,677,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR11059__20260122/pull/1
+log-coverage,CodeRabbit,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,730,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR22345__20260122/pull/1
+log-coverage,CodeRabbit,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,0,463,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR22532__20260122/pull/1
+log-coverage,CodeRabbit,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,3,527,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR4__20260122/pull/1
+log-coverage,CodeRabbit,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,3,566,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR10__20260122/pull/1
+log-coverage,CodeRabbit,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,277,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR76186__20260122/pull/1
+log-coverage,CodeRabbit,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,3,693,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR90045__20260122/pull/1
+log-coverage,CodeRabbit,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,445,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR97529__20260122/pull/1
+log-coverage,CodeRabbit,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,293,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR33832__20260122/pull/1
+log-coverage,CodeRabbit,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,1,1051,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR67876__20260122/pull/1
+log-coverage,CodeRabbit,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,308,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR80528__20260122/pull/1
+log-coverage,CodeRabbit,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,0,288,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR93824__20260122/pull/1
+log-coverage,CodeRabbit,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,699,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR95633__20260122/pull/1
+log-coverage,CodeRabbit,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,3,297,https://github.com/code-review-benchmark/sentry__sentry-greptile__coderabbit__PR1__20260122/pull/1
+log-coverage,CodeRabbit,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,0,661,https://github.com/code-review-benchmark/sentry__sentry-greptile__coderabbit__PR2__20260122/pull/1
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,68.961,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,1,98.195,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,1,89.975,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,25.748,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,1,50.243,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,1,74.205,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,0,96.566,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,71.94,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,1,63.179,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,82.514,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,330.863,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,0,136.059,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,24.318,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,1,52.641,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,242.401,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,2,63.669,
+log-coverage,IonWarp Log & Errors · GLM 5.3 Flash,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,1,144.787,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,calcom-cal.com-8087,cal.com,8087,https://github.com/calcom/cal.com/pull/8087,judged,1,1,48.02,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,2,0,58.643,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,calcom-cal.com-11059,cal.com,11059,https://github.com/calcom/cal.com/pull/11059,judged,5,1,54.579,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,0,0,24.759,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,1,0,38.601,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,3,1,49.564,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,3,0,39.143,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,grafana-grafana-76186,grafana,76186,https://github.com/grafana/grafana/pull/76186,judged,3,1,50.501,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,grafana-grafana-90045,grafana,90045,https://github.com/grafana/grafana/pull/90045,judged,3,2,73.125,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,40.152,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,43.726,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,2,0,31.8,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,0,0,31.276,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,1,1,39.189,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,53.798,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,ai-code-review-evaluation-sentry-greptile-1,sentry-greptile,1,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1,judged,4,1,36.27,
+log-coverage,IonWarp Log & Errors · GPT 5.6 Luna Pro,ai-code-review-evaluation-sentry-greptile-2,sentry-greptile,2,https://github.com/ai-code-review-evaluation/sentry-greptile/pull/2,judged,2,0,51.708,

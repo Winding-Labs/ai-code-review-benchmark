@@ -1,0 +1,96 @@
+{
+  "source": "https://ionwarp.com/benchmarks/v1",
+  "fetched_at": "2026-10-05T18:33:59.142Z",
+  "families": [
+    {
+      "family": "code-review",
+      "name": "Code Review",
+      "snapshot_id": "onerow3-code-2026-09-24-r1",
+      "captured_at": "2026-09-25T03:17:34.603160+00:00",
+      "ranking_allowed": true,
+      "prs": 50,
+      "rows": 9,
+      "case_rows": 450
+    },
+    {
+      "family": "security-review",
+      "name": "Security Review",
+      "snapshot_id": "onerow3-security-2026-09-24-r1",
+      "captured_at": "2026-09-25T03:10:07.864194+00:00",
+      "ranking_allowed": false,
+      "prs": 13,
+      "rows": 11,
+      "case_rows": 143
+    },
+    {
+      "family": "ai-architecture",
+      "name": "AI Architecture Review",
+      "snapshot_id": "onerow3-arch-2026-09-24-r1",
+      "captured_at": "2026-09-25T03:05:29.526587+00:00",
+      "ranking_allowed": false,
+      "prs": 11,
+      "rows": 12,
+      "case_rows": 132
+    },
+    {
+      "family": "log-coverage",
+      "name": "Log & Errors Review",
+      "snapshot_id": "onerow3-logs-2026-09-24-r1",
+      "captured_at": "2026-09-25T03:12:58.063889+00:00",
+      "ranking_allowed": false,
+      "prs": 17,
+      "rows": 9,
+      "case_rows": 153
+    },
+    {
+      "family": "docs-freshness",
+      "name": "Docs Review",
+      "snapshot_id": "onerow-docs-2026-09-22-three-full",
+      "captured_at": "2026-09-23T02:19:04.285290+00:00",
+      "ranking_allowed": false,
+      "prs": 19,
+      "rows": 7,
+      "case_rows": 133
+    },
+    {
+      "family": "performance-review",
+      "name": "API Performance Review",
+      "snapshot_id": "onerow-performance-2026-09-24-r1",
+      "captured_at": "2026-09-24T18:23:02.023172+00:00",
+      "ranking_allowed": false,
+      "prs": 18,
+      "rows": 10,
+      "case_rows": 180
+    },
+    {
+      "family": "soc2-review",
+      "name": "SOC 2 Review",
+      "snapshot_id": "onerow-soc2-2026-09-24-r1",
+      "captured_at": "2026-09-24T18:22:49.910828+00:00",
+      "ranking_allowed": false,
+      "prs": 20,
+      "rows": 5,
+      "case_rows": 100
+    },
+    {
+      "family": "cicd-performance",
+      "name": "CI/CD Performance",
+      "snapshot_id": "model-tables-2026-09-20-r1",
+      "captured_at": "2026-09-21T15:23:43.547098+00:00",
+      "ranking_allowed": false,
+      "prs": 18,
+      "rows": 5,
+      "case_rows": 90
+    },
+    {
+      "family": "cost-review",
+      "name": "Cost Review",
+      "snapshot_id": "onerow-cost-2026-09-24-r1",
+      "captured_at": "2026-09-24T18:23:13.403655+00:00",
+      "ranking_allowed": false,
+      "prs": 20,
+      "rows": 3,
+      "case_rows": 60
+    }
+  ]
+}

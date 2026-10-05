@@ -1,0 +1,181 @@
+family,reviewer,case_id,repository,pr_number,pr_url,status,expected_issues,caught,seconds,review_url
+performance-review,IonWarp API Performance · Muse Spark 1.3,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,32.941,
+performance-review,IonWarp API Performance · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,41.506,
+performance-review,IonWarp API Performance · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,35.485,
+performance-review,IonWarp API Performance · Muse Spark 1.3,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,68.641,
+performance-review,IonWarp API Performance · Muse Spark 1.3,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,43.569,
+performance-review,IonWarp API Performance · Muse Spark 1.3,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,32.316,
+performance-review,IonWarp API Performance · Muse Spark 1.3,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,31.854,
+performance-review,IonWarp API Performance · Muse Spark 1.3,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,12.297,
+performance-review,IonWarp API Performance · Muse Spark 1.3,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,19.927,
+performance-review,IonWarp API Performance · Muse Spark 1.3,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,judged,1,0,151.896,
+performance-review,IonWarp API Performance · Muse Spark 1.3,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,judged,1,1,41.152,
+performance-review,IonWarp API Performance · Muse Spark 1.3,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,judged,1,1,91.22,
+performance-review,IonWarp API Performance · Muse Spark 1.3,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,judged,1,1,50.291,
+performance-review,IonWarp API Performance · Muse Spark 1.3,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,judged,1,1,75.511,
+performance-review,IonWarp API Performance · Muse Spark 1.3,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,judged,1,1,48.238,
+performance-review,IonWarp API Performance · Muse Spark 1.3,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,24.747,
+performance-review,IonWarp API Performance · Muse Spark 1.3,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,42.159,
+performance-review,IonWarp API Performance · Muse Spark 1.3,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,63.246,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,175.525,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,18.281,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,92.605,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,39.214,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,0,12.69,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,82.048,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,22.7,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,14.19,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,32.232,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,judged,1,0,92.985,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,judged,1,1,44.456,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,judged,1,1,55.808,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,judged,1,1,42.499,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,judged,1,1,49.019,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,judged,1,1,49.731,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,48.373,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,152.343,
+performance-review,IonWarp API Performance · GLM 5.3 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,137.175,
+performance-review,Greptile v4.1,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,351,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR10600__20260406/pull/1
+performance-review,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,247,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR9__20260405/pull/1
+performance-review,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,344,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR10__20260405/pull/1
+performance-review,Greptile v4.1,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,230,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR80329__20260405/pull/1
+performance-review,Greptile v4.1,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,144,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR90939__20260405/pull/1
+performance-review,Greptile v4.1,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,345,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR97529__20260405/pull/1
+performance-review,Greptile v4.1,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,244,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR33832__20260406/pull/1
+performance-review,Greptile v4.1,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,289,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR36882__20260406/pull/1
+performance-review,Greptile v4.1,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,337,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR37634__20260406/pull/1
+performance-review,Greptile v4.1,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,not_started,1,,,
+performance-review,Greptile v4.1,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,not_started,1,,,
+performance-review,Greptile v4.1,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,not_started,1,,,
+performance-review,Greptile v4.1,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,not_started,1,,,
+performance-review,Greptile v4.1,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,not_started,1,,,
+performance-review,Greptile v4.1,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,not_started,1,,,
+performance-review,Greptile v4.1,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,323,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR80168__20260406/pull/1
+performance-review,Greptile v4.1,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,1,176,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR93824__20260406/pull/1
+performance-review,Greptile v4.1,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,309,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR95633__20260406/pull/1
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,21.353,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,22.573,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,27.983,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,43.755,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,27.324,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,25.844,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,24.221,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,13.012,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,19.592,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,judged,1,0,77.073,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,judged,1,1,27.557,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,judged,1,0,30.608,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,judged,1,1,31.976,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,judged,1,1,38.888,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,judged,1,1,36.519,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,27.517,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,37.431,
+performance-review,IonWarp API Performance · GPT 5.6 Luna Pro,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,25.625,
+performance-review,Qodo v2,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,436,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR10600__20260227/pull/1
+performance-review,Qodo v2,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,1,272,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR9__20260227/pull/1
+performance-review,Qodo v2,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,449,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR10__20260227/pull/1
+performance-review,Qodo v2,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,421,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR80329__20260227/pull/1
+performance-review,Qodo v2,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,195,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR90939__20260227/pull/1
+performance-review,Qodo v2,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,301,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR97529__20260227/pull/1
+performance-review,Qodo v2,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,349,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR33832__20260227/pull/1
+performance-review,Qodo v2,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,573,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR36882__20260227/pull/1
+performance-review,Qodo v2,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,318,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR37634__20260227/pull/1
+performance-review,Qodo v2,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,not_started,1,,,
+performance-review,Qodo v2,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,not_started,1,,,
+performance-review,Qodo v2,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,not_started,1,,,
+performance-review,Qodo v2,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,not_started,1,,,
+performance-review,Qodo v2,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,not_started,1,,,
+performance-review,Qodo v2,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,not_started,1,,,
+performance-review,Qodo v2,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,196,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR80168__20260227/pull/1
+performance-review,Qodo v2,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,1,337,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR93824__20260227/pull/1
+performance-review,Qodo v2,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,377,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR95633__20260227/pull/1
+performance-review,Cursor Bugbot,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,701,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR10600__20260122/pull/1
+performance-review,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,1,444,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR9__20260122/pull/1
+performance-review,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,314,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR10__20260122/pull/1
+performance-review,Cursor Bugbot,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,509,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR80329__20260122/pull/1
+performance-review,Cursor Bugbot,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,208,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR90939__20260122/pull/1
+performance-review,Cursor Bugbot,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,594,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR97529__20260122/pull/1
+performance-review,Cursor Bugbot,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,349,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR33832__20260122/pull/1
+performance-review,Cursor Bugbot,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,591,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR36882__20260122/pull/1
+performance-review,Cursor Bugbot,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,406,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR37634__20260122/pull/1
+performance-review,Cursor Bugbot,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,not_started,1,,,
+performance-review,Cursor Bugbot,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,not_started,1,,,
+performance-review,Cursor Bugbot,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,not_started,1,,,
+performance-review,Cursor Bugbot,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,not_started,1,,,
+performance-review,Cursor Bugbot,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,not_started,1,,,
+performance-review,Cursor Bugbot,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,not_started,1,,,
+performance-review,Cursor Bugbot,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,417,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR80168__20260122/pull/1
+performance-review,Cursor Bugbot,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,1,604,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR93824__20260122/pull/1
+performance-review,Cursor Bugbot,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,729,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR95633__20260122/pull/1
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,25.803,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,51.831,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,61.821,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,0,78.944,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,41.556,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,83.237,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,62.712,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,16.787,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,33.792,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,judged,1,0,454.507,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,judged,1,1,132.845,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,judged,1,0,106.023,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,judged,1,1,480.063,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,judged,1,1,432.219,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,judged,1,1,175.624,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,45.544,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,104.988,
+performance-review,IonWarp API Performance · DeepSeek V4 Pro,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,126.913,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,292.537,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,997.96,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,143.642,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,487.257,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,108.922,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,418.677,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,123.845,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,133.461,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,730.82,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,judged,1,0,1089.662,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,judged,1,1,125.904,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,judged,1,1,504.958,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,judged,1,1,237.851,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,judged,1,1,450.162,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,judged,1,1,172.849,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,354.446,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,625.207,
+performance-review,IonWarp API Performance · DeepSeek V4.1 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,622.139,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,20.99,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,84.986,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,135.317,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,1,76.707,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,0,41.083,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,0,44.665,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,25.694,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,10.207,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,34.818,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,judged,1,0,178.583,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,judged,1,1,33.364,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,judged,1,0,39.544,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,judged,1,1,49.831,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,judged,1,1,74.451,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,judged,1,1,67.231,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,29.714,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,109.4,
+performance-review,IonWarp API Performance · Gemini 3.8 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,123.217,
+performance-review,CodeRabbit,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,610,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR10600__20260122/pull/1
+performance-review,CodeRabbit,ai-code-review-evaluation-discourse-graphite-9,discourse-graphite,9,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/9,judged,1,0,338,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR9__20260122/pull/1
+performance-review,CodeRabbit,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,566,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR10__20260122/pull/1
+performance-review,CodeRabbit,grafana-grafana-80329,grafana,80329,https://github.com/grafana/grafana/pull/80329,judged,1,0,310,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR80329__20260122/pull/1
+performance-review,CodeRabbit,grafana-grafana-90939,grafana,90939,https://github.com/grafana/grafana/pull/90939,judged,1,1,320,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR90939__20260122/pull/1
+performance-review,CodeRabbit,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,1,1,445,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR97529__20260122/pull/1
+performance-review,CodeRabbit,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,0,0,293,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR33832__20260122/pull/1
+performance-review,CodeRabbit,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,0,0,382,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR36882__20260122/pull/1
+performance-review,CodeRabbit,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,0,0,574,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR37634__20260122/pull/1
+performance-review,CodeRabbit,netbox-community-netbox-15141,netbox,15141,https://github.com/netbox-community/netbox/pull/15141,not_started,1,,,
+performance-review,CodeRabbit,pandas-dev-pandas-50331,pandas,50331,https://github.com/pandas-dev/pandas/pull/50331,not_started,1,,,
+performance-review,CodeRabbit,pandas-dev-pandas-65056,pandas,65056,https://github.com/pandas-dev/pandas/pull/65056,not_started,1,,,
+performance-review,CodeRabbit,getsentry-sentry-11908,sentry,11908,https://github.com/getsentry/sentry/pull/11908,not_started,1,,,
+performance-review,CodeRabbit,getsentry-sentry-40636,sentry,40636,https://github.com/getsentry/sentry/pull/40636,not_started,1,,,
+performance-review,CodeRabbit,getsentry-sentry-45792,sentry,45792,https://github.com/getsentry/sentry/pull/45792,not_started,1,,,
+performance-review,CodeRabbit,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,0,0,308,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR80168__20260122/pull/1
+performance-review,CodeRabbit,getsentry-sentry-93824,sentry,93824,https://github.com/getsentry/sentry/pull/93824,judged,2,0,288,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR93824__20260122/pull/1
+performance-review,CodeRabbit,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,699,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR95633__20260122/pull/1

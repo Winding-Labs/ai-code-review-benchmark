@@ -1,0 +1,144 @@
+family,reviewer,case_id,repository,pr_number,pr_url,status,expected_issues,caught,seconds,review_url
+security-review,IonWarp Security · GLM 5.3 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,223.178,
+security-review,IonWarp Security · GLM 5.3 Flash,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,59.105,
+security-review,IonWarp Security · GLM 5.3 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,98.303,
+security-review,IonWarp Security · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,1179.703,
+security-review,IonWarp Security · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,3,1402.322,
+security-review,IonWarp Security · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,1,46.412,
+security-review,IonWarp Security · GLM 5.3 Flash,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,168.51,
+security-review,IonWarp Security · GLM 5.3 Flash,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,1,42.897,
+security-review,IonWarp Security · GLM 5.3 Flash,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,403.817,
+security-review,IonWarp Security · GLM 5.3 Flash,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,1,133.112,
+security-review,IonWarp Security · GLM 5.3 Flash,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,20.192,
+security-review,IonWarp Security · GLM 5.3 Flash,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,43.359,
+security-review,IonWarp Security · GLM 5.3 Flash,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,53.894,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,356.307,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,330.533,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,770.383,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,2,244.856,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,2,279.693,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,1,222.921,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,330.916,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,1,427.448,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,865.099,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,1,334.074,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,799.319,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,440.218,
+security-review,IonWarp Security · DeepSeek V4.1 Flash,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,1,462.148,
+security-review,Qodo v2,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,436,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR10600__20260227/pull/1
+security-review,Qodo v2,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,274,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR14740__20260227/pull/1
+security-review,Qodo v2,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,321,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR22532__20260227/pull/1
+security-review,Qodo v2,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,382,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR3__20260227/pull/1
+security-review,Qodo v2,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,4,462,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR4__20260227/pull/1
+security-review,Qodo v2,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,1,449,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR10__20260227/pull/1
+security-review,Qodo v2,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,389,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR79265__20260227/pull/1
+security-review,Qodo v2,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,1,410,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR103633__20260227/pull/1
+security-review,Qodo v2,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,647,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR36880__20260227/pull/1
+security-review,Qodo v2,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,2,499,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR37038__20260227/pull/1
+security-review,Qodo v2,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,588,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR37429__20260227/pull/1
+security-review,Qodo v2,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,449,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR38446__20260227/pull/1
+security-review,Qodo v2,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,1,406,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR67876__20260227/pull/1
+security-review,IonWarp Security · Muse Spark 1.3,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,331.069,
+security-review,IonWarp Security · Muse Spark 1.3,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,150.052,
+security-review,IonWarp Security · Muse Spark 1.3,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,125.563,
+security-review,IonWarp Security · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,136.547,
+security-review,IonWarp Security · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,2,176.162,
+security-review,IonWarp Security · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,0,148.006,
+security-review,IonWarp Security · Muse Spark 1.3,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,63.338,
+security-review,IonWarp Security · Muse Spark 1.3,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,0,67.115,
+security-review,IonWarp Security · Muse Spark 1.3,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,121.448,
+security-review,IonWarp Security · Muse Spark 1.3,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,2,211.989,
+security-review,IonWarp Security · Muse Spark 1.3,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,206.231,
+security-review,IonWarp Security · Muse Spark 1.3,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,214.733,
+security-review,IonWarp Security · Muse Spark 1.3,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,186.634,
+security-review,Greptile v4.1,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,351,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR10600__20260406/pull/1
+security-review,Greptile v4.1,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,0,290,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR14740__20260406/pull/1
+security-review,Greptile v4.1,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,302,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR22532__20260406/pull/1
+security-review,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,0,255,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR3__20260405/pull/1
+security-review,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,2,254,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR4__20260405/pull/1
+security-review,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,1,344,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR10__20260405/pull/1
+security-review,Greptile v4.1,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,267,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR79265__20260405/pull/1
+security-review,Greptile v4.1,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,1,228,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR103633__20260405/pull/1
+security-review,Greptile v4.1,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,418,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR36880__20260406/pull/1
+security-review,Greptile v4.1,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,2,534,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR37038__20260406/pull/1
+security-review,Greptile v4.1,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,725,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR37429__20260406/pull/1
+security-review,Greptile v4.1,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,306,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR38446__20260406/pull/1
+security-review,Greptile v4.1,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,294,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR67876__20260406/pull/1
+security-review,IonWarp Security · Grok 4.6,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,461.529,
+security-review,IonWarp Security · Grok 4.6,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,481.038,
+security-review,IonWarp Security · Grok 4.6,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,115.771,
+security-review,IonWarp Security · Grok 4.6,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,248.582,
+security-review,IonWarp Security · Grok 4.6,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,3,1079.233,
+security-review,IonWarp Security · Grok 4.6,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,0,383.089,
+security-review,IonWarp Security · Grok 4.6,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,231.952,
+security-review,IonWarp Security · Grok 4.6,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,0,238.334,
+security-review,IonWarp Security · Grok 4.6,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,708.753,
+security-review,IonWarp Security · Grok 4.6,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,1,287.929,
+security-review,IonWarp Security · Grok 4.6,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,741.78,
+security-review,IonWarp Security · Grok 4.6,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,594.734,
+security-review,IonWarp Security · Grok 4.6,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,1,764.715,
+security-review,IonWarp Security · Gemini 3.8 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,430.843,
+security-review,IonWarp Security · Gemini 3.8 Flash,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,801.586,
+security-review,IonWarp Security · Gemini 3.8 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,145.325,
+security-review,IonWarp Security · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,395.812,
+security-review,IonWarp Security · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,2,532.726,
+security-review,IonWarp Security · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,0,316.011,
+security-review,IonWarp Security · Gemini 3.8 Flash,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,430.136,
+security-review,IonWarp Security · Gemini 3.8 Flash,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,0,220.46,
+security-review,IonWarp Security · Gemini 3.8 Flash,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,1076.878,
+security-review,IonWarp Security · Gemini 3.8 Flash,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,2,356.394,
+security-review,IonWarp Security · Gemini 3.8 Flash,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,68.594,
+security-review,IonWarp Security · Gemini 3.8 Flash,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,468.079,
+security-review,IonWarp Security · Gemini 3.8 Flash,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,1,732.716,
+security-review,CodeRabbit,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,610,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR10600__20260122/pull/1
+security-review,CodeRabbit,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,589,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR14740__20260122/pull/1
+security-review,CodeRabbit,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,463,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR22532__20260122/pull/1
+security-review,CodeRabbit,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,2,641,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR3__20260122/pull/1
+security-review,CodeRabbit,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,2,527,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR4__20260122/pull/1
+security-review,CodeRabbit,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,1,566,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR10__20260122/pull/1
+security-review,CodeRabbit,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,367,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR79265__20260122/pull/1
+security-review,CodeRabbit,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,1,358,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR103633__20260122/pull/1
+security-review,CodeRabbit,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,378,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR36880__20260122/pull/1
+security-review,CodeRabbit,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,2,817,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR37038__20260122/pull/1
+security-review,CodeRabbit,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,477,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR37429__20260122/pull/1
+security-review,CodeRabbit,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,913,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR38446__20260122/pull/1
+security-review,CodeRabbit,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,1051,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR67876__20260122/pull/1
+security-review,Cursor Bugbot,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,701,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR10600__20260122/pull/1
+security-review,Cursor Bugbot,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,301,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR14740__20260122/pull/1
+security-review,Cursor Bugbot,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR22532__20260122/pull/1
+security-review,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,517,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR3__20260122/pull/1
+security-review,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,1,310,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR4__20260122/pull/1
+security-review,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,0,314,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR10__20260122/pull/1
+security-review,Cursor Bugbot,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,698,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR79265__20260122/pull/1
+security-review,Cursor Bugbot,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,0,730,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR103633__20260122/pull/1
+security-review,Cursor Bugbot,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,488,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR36880__20260122/pull/1
+security-review,Cursor Bugbot,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,2,597,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR37038__20260122/pull/1
+security-review,Cursor Bugbot,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,165,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR37429__20260122/pull/1
+security-review,Cursor Bugbot,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,663,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR38446__20260122/pull/1
+security-review,Cursor Bugbot,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,397,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR67876__20260122/pull/1
+security-review,IonWarp Security · DeepSeek V4 Pro,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,239.185,
+security-review,IonWarp Security · DeepSeek V4 Pro,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,1,208.742,
+security-review,IonWarp Security · DeepSeek V4 Pro,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,56.717,
+security-review,IonWarp Security · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,172.587,
+security-review,IonWarp Security · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,0,103.904,
+security-review,IonWarp Security · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,0,111.303,
+security-review,IonWarp Security · DeepSeek V4 Pro,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,160.059,
+security-review,IonWarp Security · DeepSeek V4 Pro,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,1,136.828,
+security-review,IonWarp Security · DeepSeek V4 Pro,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,84.972,
+security-review,IonWarp Security · DeepSeek V4 Pro,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,1,269.404,
+security-review,IonWarp Security · DeepSeek V4 Pro,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,100.846,
+security-review,IonWarp Security · DeepSeek V4 Pro,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,234.374,
+security-review,IonWarp Security · DeepSeek V4 Pro,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,326.884,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,64.905,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,calcom-cal.com-14740,cal.com,14740,https://github.com/calcom/cal.com/pull/14740,judged,1,0,47.107,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,24.18,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-3,discourse-graphite,3,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3,judged,2,1,89.083,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-4,discourse-graphite,4,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/4,judged,5,0,106.939,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,1,0,77.906,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,64.89,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,2,0,43.235,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,116.837,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,keycloak-keycloak-37038,keycloak,37038,https://github.com/keycloak/keycloak/pull/37038,judged,2,1,153.046,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,1,0,30.635,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,76.349,
+security-review,IonWarp Security · GPT 5.6 Luna Pro,getsentry-sentry-67876,sentry,67876,https://github.com/getsentry/sentry/pull/67876,judged,1,0,148.401,

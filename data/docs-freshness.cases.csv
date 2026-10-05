@@ -1,0 +1,134 @@
+family,reviewer,case_id,repository,pr_number,pr_url,status,expected_issues,caught,seconds,review_url
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,47.742,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,35.517,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,69.004,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,33.845,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,22.556,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,1,55.806,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,64.194,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,1,115.608,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,1,42.077,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,judged,1,1,92.942,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,judged,1,1,67.266,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,judged,1,1,58.648,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,judged,1,0,78.019,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,judged,1,1,51.737,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,judged,1,0,43.862,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,judged,1,1,56.837,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,judged,1,1,68.495,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,1,66.789,
+docs-freshness,IonWarp Docs · Gemini 3.8 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,1,87.038,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,1,189.409,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,67.261,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,341.411,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,114.995,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,30.043,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,0,36.685,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,291.838,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,2,120.33,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,1,205.806,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,judged,1,1,1787.212,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,judged,1,1,205.124,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,judged,1,1,131.757,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,judged,1,1,154.468,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,judged,1,1,180.362,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,judged,1,1,292.167,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,judged,1,1,141.941,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,judged,1,1,464.101,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,1,82.905,
+docs-freshness,IonWarp Docs · DeepSeek V4 Pro,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,1,221.652,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,26.503,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,44.054,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,44.219,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,73.236,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,30.763,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,1,52.342,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,36.64,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,2,115.962,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,1,61.296,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,judged,1,1,109.835,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,judged,1,0,49.291,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,judged,1,1,39.118,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,judged,1,0,39.506,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,judged,1,1,46.965,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,judged,1,1,47.583,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,judged,1,0,66.449,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,judged,1,1,69.392,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,1,34.391,
+docs-freshness,IonWarp Docs · Muse Spark 1.3,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,0,70.885,
+docs-freshness,CodeRabbit,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,610,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR10600__20260122/pull/1
+docs-freshness,CodeRabbit,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,463,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR22532__20260122/pull/1
+docs-freshness,CodeRabbit,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,566,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR10__20260122/pull/1
+docs-freshness,CodeRabbit,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,367,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR79265__20260122/pull/1
+docs-freshness,CodeRabbit,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,445,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR97529__20260122/pull/1
+docs-freshness,CodeRabbit,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,0,358,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR103633__20260122/pull/1
+docs-freshness,CodeRabbit,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,382,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR36882__20260122/pull/1
+docs-freshness,CodeRabbit,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,2,477,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR37429__20260122/pull/1
+docs-freshness,CodeRabbit,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,1,574,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR37634__20260122/pull/1
+docs-freshness,CodeRabbit,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,not_started,1,,,
+docs-freshness,CodeRabbit,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,not_started,1,,,
+docs-freshness,CodeRabbit,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,1,308,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR80168__20260122/pull/1
+docs-freshness,CodeRabbit,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,0,699,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR95633__20260122/pull/1
+docs-freshness,Cursor Bugbot,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,701,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR10600__20260122/pull/1
+docs-freshness,Cursor Bugbot,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR22532__20260122/pull/1
+docs-freshness,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,314,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR10__20260122/pull/1
+docs-freshness,Cursor Bugbot,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,0,698,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR79265__20260122/pull/1
+docs-freshness,Cursor Bugbot,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,594,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR97529__20260122/pull/1
+docs-freshness,Cursor Bugbot,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,0,730,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR103633__20260122/pull/1
+docs-freshness,Cursor Bugbot,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,591,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR36882__20260122/pull/1
+docs-freshness,Cursor Bugbot,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,2,165,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR37429__20260122/pull/1
+docs-freshness,Cursor Bugbot,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,0,406,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR37634__20260122/pull/1
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,not_started,1,,,
+docs-freshness,Cursor Bugbot,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,not_started,1,,,
+docs-freshness,Cursor Bugbot,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,0,417,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR80168__20260122/pull/1
+docs-freshness,Cursor Bugbot,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,0,729,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR95633__20260122/pull/1
+docs-freshness,Greptile v4.1,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,351,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR10600__20260406/pull/1
+docs-freshness,Greptile v4.1,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,302,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR22532__20260406/pull/1
+docs-freshness,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,344,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR10__20260405/pull/1
+docs-freshness,Greptile v4.1,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,267,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR79265__20260405/pull/1
+docs-freshness,Greptile v4.1,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,345,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR97529__20260405/pull/1
+docs-freshness,Greptile v4.1,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,0,228,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR103633__20260405/pull/1
+docs-freshness,Greptile v4.1,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,289,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR36882__20260406/pull/1
+docs-freshness,Greptile v4.1,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,0,725,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR37429__20260406/pull/1
+docs-freshness,Greptile v4.1,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,0,337,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR37634__20260406/pull/1
+docs-freshness,Greptile v4.1,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,not_started,1,,,
+docs-freshness,Greptile v4.1,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,not_started,1,,,
+docs-freshness,Greptile v4.1,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,1,323,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR80168__20260406/pull/1
+docs-freshness,Greptile v4.1,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,0,309,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR95633__20260406/pull/1
+docs-freshness,Qodo v2,calcom-cal.com-10600,cal.com,10600,https://github.com/calcom/cal.com/pull/10600,judged,1,0,436,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR10600__20260227/pull/1
+docs-freshness,Qodo v2,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,321,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR22532__20260227/pull/1
+docs-freshness,Qodo v2,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,449,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR10__20260227/pull/1
+docs-freshness,Qodo v2,grafana-grafana-79265,grafana,79265,https://github.com/grafana/grafana/pull/79265,judged,1,1,389,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR79265__20260227/pull/1
+docs-freshness,Qodo v2,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,301,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR97529__20260227/pull/1
+docs-freshness,Qodo v2,grafana-grafana-103633,grafana,103633,https://github.com/grafana/grafana/pull/103633,judged,1,1,410,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR103633__20260227/pull/1
+docs-freshness,Qodo v2,keycloak-keycloak-36882,keycloak,36882,https://github.com/keycloak/keycloak/pull/36882,judged,1,0,573,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR36882__20260227/pull/1
+docs-freshness,Qodo v2,keycloak-keycloak-37429,keycloak,37429,https://github.com/keycloak/keycloak/pull/37429,judged,2,0,588,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR37429__20260227/pull/1
+docs-freshness,Qodo v2,keycloak-keycloak-37634,keycloak,37634,https://github.com/keycloak/keycloak/pull/37634,judged,1,0,318,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR37634__20260227/pull/1
+docs-freshness,Qodo v2,pandas-dev-pandas-43951,pandas,43951,https://github.com/pandas-dev/pandas/pull/43951,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-45411,pandas,45411,https://github.com/pandas-dev/pandas/pull/45411,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-47633,pandas,47633,https://github.com/pandas-dev/pandas/pull/47633,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-57347,pandas,57347,https://github.com/pandas-dev/pandas/pull/57347,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-61032,pandas,61032,https://github.com/pandas-dev/pandas/pull/61032,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-61264,pandas,61264,https://github.com/pandas-dev/pandas/pull/61264,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-61467,pandas,61467,https://github.com/pandas-dev/pandas/pull/61467,not_started,1,,,
+docs-freshness,Qodo v2,pandas-dev-pandas-63384,pandas,63384,https://github.com/pandas-dev/pandas/pull/63384,not_started,1,,,
+docs-freshness,Qodo v2,getsentry-sentry-80168,sentry,80168,https://github.com/getsentry/sentry/pull/80168,judged,1,0,196,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR80168__20260227/pull/1
+docs-freshness,Qodo v2,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,1,0,377,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR95633__20260227/pull/1

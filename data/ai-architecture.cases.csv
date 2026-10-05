@@ -1,0 +1,133 @@
+family,reviewer,case_id,repository,pr_number,pr_url,status,expected_issues,caught,seconds,review_url
+ai-architecture,CodeRabbit,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,1,680,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR10967__20260122/pull/1
+ai-architecture,CodeRabbit,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,730,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR22345__20260122/pull/1
+ai-architecture,CodeRabbit,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,463,https://github.com/code-review-benchmark/cal_dot_com__cal.com__coderabbit__PR22532__20260122/pull/1
+ai-architecture,CodeRabbit,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,309,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR1__20260122/pull/1
+ai-architecture,CodeRabbit,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,566,https://github.com/code-review-benchmark/discourse__discourse-graphite__coderabbit__PR10__20260122/pull/1
+ai-architecture,CodeRabbit,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,445,https://github.com/code-review-benchmark/grafana__grafana__coderabbit__PR97529__20260122/pull/1
+ai-architecture,CodeRabbit,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,293,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR33832__20260122/pull/1
+ai-architecture,CodeRabbit,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,378,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR36880__20260122/pull/1
+ai-architecture,CodeRabbit,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,913,https://github.com/code-review-benchmark/keycloak__keycloak__coderabbit__PR38446__20260122/pull/1
+ai-architecture,CodeRabbit,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,308,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR80528__20260122/pull/1
+ai-architecture,CodeRabbit,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,699,https://github.com/code-review-benchmark/sentry__sentry__coderabbit__PR95633__20260122/pull/1
+ai-architecture,IonWarp AI Architecture · GLM 5.3,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,126.132,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,1,60.86,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,516.816,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,91.484,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,88.577,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,104.475,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,32.206,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,77.342,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,89.469,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,56.274,
+ai-architecture,IonWarp AI Architecture · GLM 5.3,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,123.976,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,62.581,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,51.393,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,49.515,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,125.905,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,50.94,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,48.333,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,75.998,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,55.308,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,49.42,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,40.866,
+ai-architecture,IonWarp AI Architecture · GPT 5.6 Luna Pro,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,96.998,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,175.38,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,1,180.024,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,149.174,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,325.626,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,106.688,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,76.096,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,79.656,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,187.713,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,112.328,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,31.777,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4 Pro,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,79.623,
+ai-architecture,Greptile v4.1,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,214,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR10967__20260406/pull/1
+ai-architecture,Greptile v4.1,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,402,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR22345__20260406/pull/1
+ai-architecture,Greptile v4.1,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,302,https://github.com/code-review-benchmark/cal_dot_com__cal.com__greptile-v4-1__PR22532__20260406/pull/1
+ai-architecture,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,247,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR1__20260405/pull/1
+ai-architecture,Greptile v4.1,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,344,https://github.com/code-review-benchmark/discourse__discourse-graphite__greptile-v4-1__PR10__20260405/pull/1
+ai-architecture,Greptile v4.1,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,345,https://github.com/code-review-benchmark/grafana__grafana__greptile-v4-1__PR97529__20260405/pull/1
+ai-architecture,Greptile v4.1,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,244,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR33832__20260406/pull/1
+ai-architecture,Greptile v4.1,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,418,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR36880__20260406/pull/1
+ai-architecture,Greptile v4.1,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,306,https://github.com/code-review-benchmark/keycloak__keycloak__greptile-v4-1__PR38446__20260406/pull/1
+ai-architecture,Greptile v4.1,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,180,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR80528__20260406/pull/1
+ai-architecture,Greptile v4.1,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,309,https://github.com/code-review-benchmark/sentry__sentry__greptile-v4-1__PR95633__20260406/pull/1
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,638.585,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,1,189.829,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,496.93,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,255.978,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,242.548,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,412.944,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,504.107,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,691.646,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,363.57,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,275.422,
+ai-architecture,IonWarp AI Architecture · DeepSeek V4.1 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,374.139,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,36.399,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,112.612,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,61.716,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,0,224.113,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,27.479,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,665.148,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,0,206.021,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,37.345,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,47.304,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,15.46,
+ai-architecture,IonWarp AI Architecture · GLM 5.3 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,129.079,
+ai-architecture,Cursor Bugbot,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,444,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR10967__20260122/pull/1
+ai-architecture,Cursor Bugbot,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,1,757,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR22345__20260122/pull/1
+ai-architecture,Cursor Bugbot,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,,https://github.com/code-review-benchmark/cal_dot_com__cal.com__bugbot__PR22532__20260122/pull/1
+ai-architecture,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,360,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR1__20260122/pull/1
+ai-architecture,Cursor Bugbot,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,314,https://github.com/code-review-benchmark/discourse__discourse-graphite__bugbot__PR10__20260122/pull/1
+ai-architecture,Cursor Bugbot,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,594,https://github.com/code-review-benchmark/grafana__grafana__bugbot__PR97529__20260122/pull/1
+ai-architecture,Cursor Bugbot,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,349,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR33832__20260122/pull/1
+ai-architecture,Cursor Bugbot,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,488,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR36880__20260122/pull/1
+ai-architecture,Cursor Bugbot,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,663,https://github.com/code-review-benchmark/keycloak__keycloak__bugbot__PR38446__20260122/pull/1
+ai-architecture,Cursor Bugbot,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,326,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR80528__20260122/pull/1
+ai-architecture,Cursor Bugbot,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,729,https://github.com/code-review-benchmark/sentry__sentry__bugbot__PR95633__20260122/pull/1
+ai-architecture,IonWarp AI Architecture · Grok 4.6,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,211.155,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,1,153.389,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,308.232,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,209.377,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,218.275,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,136.186,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,101.309,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,190.807,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,210.029,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,145.554,
+ai-architecture,IonWarp AI Architecture · Grok 4.6,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,252.175,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,178.169,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,216.537,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,175.535,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,84.223,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,116.465,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,48.705,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,79.315,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,158.059,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,85.694,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,124.105,
+ai-architecture,IonWarp AI Architecture · Muse Spark 1.3,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,169.674,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,229.659,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,185.136,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,314.482,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,290.697,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,162.483,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,116.468,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,1,210.114,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,1,314.045,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,298.061,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,138.991,
+ai-architecture,IonWarp AI Architecture · Gemini 3.8 Flash,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,313.185,
+ai-architecture,Qodo v2,calcom-cal.com-10967,cal.com,10967,https://github.com/calcom/cal.com/pull/10967,judged,1,0,384,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR10967__20260227/pull/1
+ai-architecture,Qodo v2,calcom-cal.com-22345,cal.com,22345,https://github.com/calcom/cal.com/pull/22345,judged,1,0,352,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR22345__20260227/pull/1
+ai-architecture,Qodo v2,calcom-cal.com-22532,cal.com,22532,https://github.com/calcom/cal.com/pull/22532,judged,0,0,321,https://github.com/code-review-benchmark/cal_dot_com__cal.com__qodo-v2__PR22532__20260227/pull/1
+ai-architecture,Qodo v2,ai-code-review-evaluation-discourse-graphite-1,discourse-graphite,1,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1,judged,1,1,294,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR1__20260227/pull/1
+ai-architecture,Qodo v2,ai-code-review-evaluation-discourse-graphite-10,discourse-graphite,10,https://github.com/ai-code-review-evaluation/discourse-graphite/pull/10,judged,0,0,449,https://github.com/code-review-benchmark/discourse__discourse-graphite__qodo-v2__PR10__20260227/pull/1
+ai-architecture,Qodo v2,grafana-grafana-97529,grafana,97529,https://github.com/grafana/grafana/pull/97529,judged,0,0,301,https://github.com/code-review-benchmark/grafana__grafana__qodo-v2__PR97529__20260227/pull/1
+ai-architecture,Qodo v2,keycloak-keycloak-33832,keycloak,33832,https://github.com/keycloak/keycloak/pull/33832,judged,1,0,349,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR33832__20260227/pull/1
+ai-architecture,Qodo v2,keycloak-keycloak-36880,keycloak,36880,https://github.com/keycloak/keycloak/pull/36880,judged,1,0,647,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR36880__20260227/pull/1
+ai-architecture,Qodo v2,keycloak-keycloak-38446,keycloak,38446,https://github.com/keycloak/keycloak/pull/38446,judged,0,0,449,https://github.com/code-review-benchmark/keycloak__keycloak__qodo-v2__PR38446__20260227/pull/1
+ai-architecture,Qodo v2,getsentry-sentry-80528,sentry,80528,https://github.com/getsentry/sentry/pull/80528,judged,1,0,218,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR80528__20260227/pull/1
+ai-architecture,Qodo v2,getsentry-sentry-95633,sentry,95633,https://github.com/getsentry/sentry/pull/95633,judged,0,0,377,https://github.com/code-review-benchmark/sentry__sentry__qodo-v2__PR95633__20260227/pull/1
