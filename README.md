@@ -7,8 +7,8 @@ advance. Two kinds of reviewer are measured:
 - **review apps**: Qodo v2, Greptile v4.1, Cursor Bugbot and CodeRabbit;
 - **IonWarp reviewers** running on different LLMs: DeepSeek, GLM, Muse Spark, GPT, Gemini and Grok.
 
-**Snapshot:** fetched **2026-10-05** from the public API at `https://ionwarp.com/benchmarks/v1`.
-Each family's release was captured between 2026-09-21 and 2026-09-25 (see
+**Snapshot:** fetched **2026-10-12** from the public API at `https://ionwarp.com/benchmarks/v1`.
+Each family's release was captured between 2026-09-21 and 2026-10-06 (see
 [`data/manifest.json`](data/manifest.json)). Run `node scripts/fetch.mjs` to refresh.
 
 ## What is measured
@@ -21,7 +21,7 @@ For each reviewer and pull request, the benchmark records three things:
 
 | Family | PRs | Expected issues | Ranking allowed | Release captured | Rows | Files |
 |---|---:|---:|:---:|---|---:|---|
-| Code Review | 50 | 158 | **yes** | 2026-09-25 | 9 | [csv](data/code-review.csv) · [cases](data/code-review.cases.csv) · [json](data/code-review.json) |
+| Code Review | 50 | 158 | **yes** | 2026-10-06 | 9 | [csv](data/code-review.csv) · [cases](data/code-review.cases.csv) · [json](data/code-review.json) |
 | Security Review | 13 | 18 | no | 2026-09-25 | 11 | [csv](data/security-review.csv) · [cases](data/security-review.cases.csv) · [json](data/security-review.json) |
 | AI Architecture Review | 11 | 6 | no | 2026-09-25 | 12 | [csv](data/ai-architecture.csv) · [cases](data/ai-architecture.cases.csv) · [json](data/ai-architecture.json) |
 | Log & Errors Review | 17 | 31 | no | 2026-09-25 | 9 | [csv](data/log-coverage.csv) · [cases](data/log-coverage.cases.csv) · [json](data/log-coverage.json) |
